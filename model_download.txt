@@ -1,7 +1,7 @@
 Custom CNN architecture model for using in the gui file:
-https://drive.google.com/file/d/1x1kr3a04M8hoE7ybf4VnZeVpiZsNr55c/view?usp=drive_link
+https://drive.google.com/file/d/1Sdd4CruIZpNwHQhk37qpDfbTz7hrWLq7/view?usp=sharing
 
 VGG16 architecture model for using in the gui file:
-https://drive.google.com/file/d/1FbtOCgUFWsgKyohZLgJbGWYfUdshCA_N/view?usp=sharing
+https://drive.google.com/file/d/16GhpbKMWDqfj6bZc0snR9w8YAAIQQkN8/view?usp=sharing
 
 
