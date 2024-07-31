@@ -13,7 +13,7 @@ A cat or dog detection model leverages convolutional neural networks (CNNs) to c
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/saadpd/menwomen-classification). 
 3. Extract the dataset to your repository folder.
-4. Open the [Model jupyter notebook](https://github.com/Himanshu-Atri/Dog_or_Cat_Detection/blob/main/dog_vs_cat.ipynb)
+4. Open the [Model jupyter notebook](https://github.com/Himanshu-Atri/Dog_or_Cat_Detection/blob/main/dog_vs_cat_custom_cnn.ipynb) or [VGG16 Model Jupyter notebook](https://github.com/Himanshu-Atri/Dog_or_Cat_Detection/blob/main/new_dog_vs_cat_VGG16.ipynb)
 5. Run this notebook
 6. Run the [gui.py](https://github.com/Himanshu-Atri/Men-VS-Women/blob/main/gui_model.py) file
 7. Upload the Image you want to detect
